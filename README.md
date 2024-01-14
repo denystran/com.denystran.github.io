@@ -1,1 +1,1 @@
-# com.denystran.io
+# com.denystran.github.io
